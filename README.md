@@ -15,7 +15,7 @@ For one-click installation, click one of the install buttons below:
 
 ### Manual Installation
 
-Add the following JSON block to your User Settings (JSON) file in VS Code. You can do this by pressing `Ctrl + Shift + P` and typing `Preferences: Open User Settings (JSON)`.
+Add the following JSON block to your User Settings (JSON) file in VS Code. You can do this by pressing `Ctrl/Cmd + Shift + P` and typing `Preferences: Open User Settings (JSON)`.
 
 ```json
 {
